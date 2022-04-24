@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9710],{9710:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/superheroe-5.bd04a249.svg",height:504,width:504}}}]);

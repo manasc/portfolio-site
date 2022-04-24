@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[280],{280:function(e,t,c){c.r(t),t.default={src:"/_next/static/media/teacher.f1cd0097.svg",height:503,width:503}}}]);

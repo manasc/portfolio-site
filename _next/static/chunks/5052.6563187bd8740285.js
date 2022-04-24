@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5052],{5052:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/psycho-2.ae84f36f.svg",height:504,width:504}}}]);

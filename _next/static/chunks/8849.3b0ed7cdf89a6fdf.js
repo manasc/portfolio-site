@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8849],{8849:function(t,e,c){c.r(e),e.default={src:"/_next/static/media/hitman-4.36fb7cdc.svg",height:504,width:504}}}]);

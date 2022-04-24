@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8112],{8112:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/boxer.f3adb8f7.svg",height:504,width:504}}}]);

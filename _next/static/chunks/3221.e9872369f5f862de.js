@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3221],{3221:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/guitar-player-1.159b2c36.svg",height:504,width:504}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[474],{474:function(s,e,t){t.r(e),e.default={src:"/_next/static/media/businessman-3.292996b7.svg",height:504,width:504}}}]);

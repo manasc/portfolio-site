@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2243],{2243:function(e,t,a){a.r(t),t.default={src:"/_next/static/media/man-4.ca1caf40.svg",height:504,width:504}}}]);

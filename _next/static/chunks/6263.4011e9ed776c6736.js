@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6263],{6263:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/grandfather.f6e81e55.svg",height:504,width:504}}}]);

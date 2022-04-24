@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6249],{6249:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/chemist.0a1c0396.svg",height:504,width:504}}}]);

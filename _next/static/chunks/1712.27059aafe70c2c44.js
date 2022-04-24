@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1712],{1712:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/alien.912a4795.svg",height:504,width:504}}}]);

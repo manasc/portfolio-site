@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3692],{3692:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/boy-5.2b30946a.svg",height:504,width:504}}}]);

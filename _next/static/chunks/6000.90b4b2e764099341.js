@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6e3],{6e3:function(e,s,t){t.r(s),s.default={src:"/_next/static/media/asian-3.74e101ab.svg",height:504,width:504}}}]);

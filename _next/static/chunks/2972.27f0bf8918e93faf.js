@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2972],{2972:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/hipster.7a2219ea.svg",height:504,width:504}}}]);

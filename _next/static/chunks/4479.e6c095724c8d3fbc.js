@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4479],{4479:function(t,e,s){s.r(e),e.default={src:"/_next/static/media/martial-arts.8fcd1e7c.svg",height:504,width:504}}}]);

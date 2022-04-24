@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8305],{8305:function(e,t,s){s.r(t),t.default={src:"/_next/static/media/wrestler.f934f7a5.svg",height:504,width:504}}}]);
